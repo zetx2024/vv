@@ -1,0 +1,53 @@
+{
+        "name": "Virtiual Internship",
+        "author": "Virtiual Internship",
+        "short_name": "v-intern",
+        "description": "In Virtual Careers, we are providing virtual work experience programs with leading global companies for high school students like Proshtuti, eptOnline, ZiiP, and many more!",
+        "start_url": "/index.html",
+        "background_color": "",
+        "theme_color": "#000000",
+        "display": "standalone",
+        "icons":[
+        {
+
+            "src": "fevicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+                {
+                "src": "fevicon/fav144x144.png",
+
+            "sizes": "144x144",
+
+            "type": "image/png"
+                       }, 
+        {
+
+            "src": "fevicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+        ],
+    "manifest_version": 1,
+    "type": "WebApp",
+    "meta": {
+        "name": "Virtiual Internship",
+        "author": "Virtiual Internship",
+        "short_name": "v-intern",
+        "short_url": ".",
+        "background_color": "#0749b3",
+        "theme_color": "#000000",
+        "display": "standalone",
+        "version": "1.0.0.01",
+        "minimum-overwolf-version": "v-intern.com",
+        "minimum-gep-version": "v-intern.com",
+        "description": "In Virtual Careers, we are providing virtual work experience programs with leading global companies for high school students like Proshtuti, eptOnline, ZiiP, and many more!",
+        "dock_button_title": "vintern",
+        "launcher_icon": "fevicon/favicon.ico",
+        "splash_image": "fevicon/logo.png",
+        "window_icon": "fevicon/logo.png"
+        
+    },
+    "permissions": ["Web"]
+    
+}
